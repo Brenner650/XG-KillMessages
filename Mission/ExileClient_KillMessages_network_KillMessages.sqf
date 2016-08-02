@@ -1,7 +1,7 @@
 /*
 	Config
 */
-_XG_KillConfig = 2;
+_XG_KillConfig = 2; //1 or 2
 _XG_colorVictim = "#DD2626";
 _XG_ColorKiller = "#A0DF3B";
 _XG_ColorVW = "#3FD4FC";
