@@ -1,0 +1,12 @@
+class CfgNetworkMessages
+{
+	class KillMessages
+	{
+		module = "KillMessages";
+		parameters[] = {"STRING","STRING","OBJECT","OBJECT"};
+	};
+};
+class RscTitles
+{
+	#include "KillMessages.hpp"
+};
