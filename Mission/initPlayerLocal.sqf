@@ -1,1 +1,2 @@
 missionNamespace setVariable ["ExileClient_KillMessages_network_KillMessages",(compileFinal preprocessFileLineNumbers "ExileClient_KillMessages_network_KillMessages.sqf")];
+missionNamespace setVariable ["XG_killboardClient",(compileFinal preprocessFile "XG_killboardClient.sqf")];
