@@ -2,7 +2,7 @@
 ##Mission:
 ####1. Go into the downloaded description.ext (in the mission folder) and copy all of it's content, Merge it with your description.ext (in your mission folder)
 ####2. Go into the downloaded initPlayerLocal.sqf (in the mission folder) and copy all of it's content, merge it with your initPlayerLocal.sqf (init player local)
-####3. Copy all 3 ExileClient_KillMessages_network_KillMessages.sqf, KillMessages.hpp, and XG_killboardClient.sqf and to the root of your mission folder
+####3. Copy all 4 ExileClient_KillMessages_network_KillMessages.sqf, KillMessages.hpp, XG_killboardClient.sqf, and killboard.hpp to the root of your mission folder
 ####4. Inside your mission config.cpp find
 	class Laptop
 	{
