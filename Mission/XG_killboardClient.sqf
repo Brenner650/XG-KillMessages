@@ -8,7 +8,7 @@ lbClear 1500;
 		{
 			_killerWeapon = "No weapon";
 		};	
-		_text = format["%1 was killed by %2 with %3 from %4",_victimName,_killerName,_killerWeapon,_distance];
+		_text = format["%1 was killed by %2 with %3 from %4m",_victimName,_killerName,_killerWeapon,_distance];
 	}
 	else
 	{
