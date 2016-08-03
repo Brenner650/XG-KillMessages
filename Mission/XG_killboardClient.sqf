@@ -4,7 +4,7 @@ lbClear 1500;
 	_x params[["_victimName",""],["_killerName",""],["_killerWeapon",""],["_killerVehicle",""],"_text","_killerWeapon"];
 	if(_killerVehicle isEqualTo "Exile Player") then
 	{
-		if(_killerVehicle isEqualTo "") then
+		if(_killerWeapon isEqualTo "") then
 		{
 			_killerWeapon = "No weapon";
 		};	
