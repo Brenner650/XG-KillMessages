@@ -58,6 +58,8 @@
 ![style1](http://puu.sh/qltF4/ff293dddb1.jpg)
 ###Style 2:
 ![style2](http://puu.sh/qlwhg/0b27724d3f.jpg)
+#Killboard:
+![killboard](http://puu.sh/qoabv/e6a217d9da.jpg)
 
 #Credits:
 ####[Diamond](http://www.exilemod.com/profile/56538-diamond) for helping me test.
