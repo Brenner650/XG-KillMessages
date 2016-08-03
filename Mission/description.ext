@@ -1,3 +1,4 @@
+#include "killboard.hpp"
 class CfgNetworkMessages
 {
 	class KillMessages
